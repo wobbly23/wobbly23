@@ -57,6 +57,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wobbly23&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophy" />
 </a>
 
+<sub>Jika trofi di atas belum muncul (server sedang sibuk), pakai fallback ini dulu:</sub>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/wobbly23?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
+<img src="https://img.shields.io/github/stars/wobbly23?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=00C2FF" alt="Total Stars" />
+<img src="https://img.shields.io/github/last-commit/wobbly23/wobbly23?label=Last%20Commit&style=for-the-badge&color=FF7F50" alt="Last Commit" />
+
 ---
 
 ### Tech Stack & Tools
