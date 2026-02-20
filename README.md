@@ -51,7 +51,7 @@
 
 ### 🏆 Trofi GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wobbly23&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wobbly23&theme=dark_lover&no-frame=true&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -63,11 +63,13 @@
 
 ---
 
-### Animasi Pacman
+### 🕹️ Game Zone: Pacman Contribution Arena
 
-<img src="https://img.shields.io/badge/Update-Setiap%2012%20Jam-00C2FF?style=flat-square" alt="Update Pacman" />
+> **Mode:** Dark Arcade • **Map:** Kontribusi GitHub Tahunan • **Player:** `wobbly23`
 
-<img alt="Grafik kontribusi Pacman" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg" width="100%">
+<img alt="Grafik kontribusi Pacman" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg" width="100%"/>
+
+<sub>Pacman berjalan mengikuti pola kontribusi kamu di GitHub.</sub>
 
 ---
 
