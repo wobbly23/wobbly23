@@ -1,17 +1,28 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=140&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&animation=twinkling)
 
-<h1 align="center">Hi there, I'm Zahy! 👋</h1>
-<h3 align="center">Informatics Engineering Student & Web Developer</h3>
+# Hi there, I'm Zahy! 👋
+
+### Informatics Engineering Student & Web Developer
+
+<img src="https://komarev.com/ghpvc/?username=wobbly23&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile views" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Focus-Web%20Development-00C2FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
+<img src="https://img.shields.io/badge/Based%20In-Makassar-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="Makassar" />
 
 <a href="https://github.com/wobbly23">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Exploring+the+World+of+Code;Coffee,+Java,+and+More+Code" alt="Typing SVG" />
 </a>
 
-<br>
+<br/>
 
-_"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ 📖💻
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 📖💻
 
-</div>
+### 🎬 Coding Vibes
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="420" />
 
 ---
 
@@ -24,59 +35,72 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
 ---
 
+### 🚀 Current Focus
+
+- Building real-world web apps with better UI/UX and clean architecture.
+- Strengthening backend + database design for scalable academic projects.
+- Growing Java and modern frontend skills through hands-on practice.
+
+---
+
+### 🎯 2026 Goals
+
+- Ship more complete full-stack projects from planning to deployment.
+- Contribute consistently and keep a strong GitHub streak.
+- Improve problem-solving in DSA and software engineering fundamentals.
+
+---
+
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wobbly23&theme=dracula&no-bg=true&no-frame=false&column=7&margin-w=4&margin-h=4" alt="wobbly23 trophies" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=wobbly23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🛠️ My Tech Stack & Tools
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,php,mysql,git,github,vscode,figma&theme=dark&perline=7" alt="My Skills" />
-  </a>
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,php,mysql,git,github,vscode,figma&theme=dark&perline=7" alt="My Skills" />
+</a>
 
 ---
 
 ### 🤖 Pacman Workflow
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 ### 📊 My GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wobbly23&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=wobbly23&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wobbly23&theme=dracula&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wobbly23&theme=dracula&hide_border=true" alt="Activity Graph" width="48%"/>
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wobbly23&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=wobbly23&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%"/>
 </div>
 
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wobbly23&theme=dracula&hide_border=true&layout=donut&langs_count=8&cache_seconds=3600" alt="Top Languages" width="49%"/>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wobbly23&theme=dracula&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
 
 ---
 
 ### 🌐 Let's Connect!
 
-<div align="center">
-  <a href="https://www.instagram.com/wobblly.z/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:muh.zahymuayyad05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</div>
+<a href="https://www.instagram.com/wobblly.z/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="mailto:muh.zahymuayyad05@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
+<sub>Thanks for stopping by — let’s build something awesome! ✨</sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer)
