@@ -51,7 +51,7 @@
 
 ### 🏆 Trofi GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wobbly23&theme=dark_lover&no-frame=true&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/wobbly23/wobbly23/output/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
