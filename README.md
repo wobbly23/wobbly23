@@ -20,13 +20,13 @@
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 📖💻
 
-### 🎬 Coding Vibes
+### Coding Vibes
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="420" />
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🔭 I’m currently developing an **e-learning website** and building an **archiving & inventory web app**.
 - 🌱 I’m a student of Informatics Engineering at **Universitas Dipa Makassar**.
@@ -35,7 +35,7 @@
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
 - Building real-world web apps with better UI/UX and clean architecture.
 - Strengthening backend + database design for scalable academic projects.
@@ -43,7 +43,7 @@
 
 ---
 
-### 🎯 2026 Goals
+### 2026 Goals
 
 - Ship more complete full-stack projects from planning to deployment.
 - Contribute consistently and keep a strong GitHub streak.
@@ -57,7 +57,7 @@
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### My Tech Stack & Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,php,mysql,git,github,vscode,figma&theme=dark&perline=7" alt="My Skills" />
@@ -65,13 +65,13 @@
 
 ---
 
-### 🤖 Pacman Workflow
+### Pacman Workflow
 
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg">
 
 ---
 
-### 📊 My GitHub Analytics
+### My GitHub Analytics
 
 <div align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wobbly23&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" width="49%"/>
@@ -88,7 +88,7 @@
 
 ---
 
-### 🌐 Let's Connect!
+### Let's Connect!
 
 <a href="https://www.instagram.com/wobblly.z/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
