@@ -38,17 +38,20 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,php,mysql,git,github,vscode,figma=7&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,php,mysql,git,github,vscode,figma&theme=dark&perline=7" alt="My Skills" />
   </a>
 </div>
 
 ---
 
-### 🤖 My Workflows
+### 🤖 Pacman Workflow
 
 <div align="center">
-    <a href="https://github.com/wobbly23/wobbly23/actions/workflows/pacman.yml"><img src="https://github.com/wobbly23/wobbly23/actions/workflows/pacman.yml/badge.svg" alt="Pacman Workflow"></a>
-    <a href="https://github.com/wobbly23/wobbly23/actions/workflows/snake.yml"><img src="https://github.com/wobbly23/wobbly23/actions/workflows/snake.yml/badge.svg" alt="Snake Workflow"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
