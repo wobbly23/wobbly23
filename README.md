@@ -6,17 +6,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=wobbly23&label=Kunjungan+Profil&color=8A2BE2&style=flat" alt="Kunjungan profil" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Kode-Java-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Fokus-Web%20Development-00C2FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
-<img src="https://img.shields.io/badge/Berdomisili-Makassar-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="Makassar" />
+<p>
+  <img src="https://img.shields.io/badge/Kode-Java-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Fokus-Web%20Development-00C2FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Berdomisili-Makassar-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="Makassar" />
+</p>
 
 <a href="https://github.com/wobbly23">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=System.out.println(%22Halo+Dunia!%22);Menjelajahi+Dunia+Pemrograman;Ngopi,+Java,+dan+Ngoding+Lagi" alt="Typing SVG" />
 </a>
-
-<br/>
 
 > "Siapa pun bisa menulis kode yang dimengerti komputer. Programmer hebat menulis kode yang juga dimengerti manusia." 📖💻
 
@@ -77,7 +75,9 @@
 
 ### Animasi Pacman
 
-<img alt="Grafik kontribusi Pacman" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg">
+<img src="https://img.shields.io/badge/Update-Setiap%2012%20Jam-00C2FF?style=flat-square" alt="Update Pacman" />
+
+<img alt="Grafik kontribusi Pacman" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg" width="100%">
 
 ---
 
