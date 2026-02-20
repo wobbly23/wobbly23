@@ -1,94 +1,96 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=140&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=140&section=header&text=Selamat%20Datang%20di%20GitHub%20Saya&fontSize=30&fontColor=ffffff&animation=twinkling)
 
-# Hi there, I'm Zahy! 👋
+# Halo, saya Zahy! 👋
 
-### Informatics Engineering Student & Web Developer
+### Mahasiswa Teknik Informatika & Web Developer
 
-<img src="https://komarev.com/ghpvc/?username=wobbly23&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=wobbly23&label=Kunjungan+Profil&color=8A2BE2&style=flat" alt="Kunjungan profil" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Focus-Web%20Development-00C2FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
-<img src="https://img.shields.io/badge/Based%20In-Makassar-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="Makassar" />
+<img src="https://img.shields.io/badge/Kode-Java-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Fokus-Web%20Development-00C2FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
+<img src="https://img.shields.io/badge/Berdomisili-Makassar-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="Makassar" />
 
 <a href="https://github.com/wobbly23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Exploring+the+World+of+Code;Coffee,+Java,+and+More+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=System.out.println(%22Halo+Dunia!%22);Menjelajahi+Dunia+Pemrograman;Ngopi,+Java,+dan+Ngoding+Lagi" alt="Typing SVG" />
 </a>
 
 <br/>
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 📖💻
+> "Siapa pun bisa menulis kode yang dimengerti komputer. Programmer hebat menulis kode yang juga dimengerti manusia." 📖💻
 
-### Coding Vibes
+### Suasana Ngoding
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="420" />
-
----
-
-### About Me
-
-- 🔭 I’m currently developing an **e-learning website** and building an **archiving & inventory web app**.
-- 🌱 I’m a student of Informatics Engineering at **Universitas Dipa Makassar**.
-- 💬 Ask me about **Java** (my favorite!) and web development.
-- ⚡ Fun fact: When not debugging, I enjoy reading, playing guitar, hunting for cool shoes, photography, or playing **Draw** (locking in **Drone Master** or **Arc Master**!).
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animasi ngoding" width="420" />
 
 ---
 
-### Current Focus
+### Tentang Saya
 
-- Building real-world web apps with better UI/UX and clean architecture.
-- Strengthening backend + database design for scalable academic projects.
-- Growing Java and modern frontend skills through hands-on practice.
-
----
-
-### 2026 Goals
-
-- Ship more complete full-stack projects from planning to deployment.
-- Contribute consistently and keep a strong GitHub streak.
-- Improve problem-solving in DSA and software engineering fundamentals.
+- 🔭 Saat ini saya sedang mengembangkan **website e-learning** dan membangun **web app arsip & inventaris**.
+- 🌱 Saya adalah mahasiswa Teknik Informatika di **Universitas Dipa Makassar**.
+- 💬 Ajak diskusi soal **Java** (favorit saya!) dan web development.
+- ⚡ Fun fact: saat tidak debugging, saya suka membaca, bermain gitar, berburu sepatu keren, fotografi, atau main **Draw** (sering pakai **Drone Master** / **Arc Master**).
 
 ---
 
-### 🏆 GitHub Trophies
+### Fokus Saat Ini
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wobbly23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- Membangun web app real-world dengan UI/UX yang lebih baik dan arsitektur yang rapi.
+- Memperkuat kemampuan backend + desain database untuk project akademik yang scalable.
+- Mengembangkan skill Java dan frontend modern lewat praktik langsung.
 
 ---
 
-### My Tech Stack & Tools
+### Target 2026
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,php,mysql,git,github,vscode,figma&theme=dark&perline=7" alt="My Skills" />
+- Menyelesaikan lebih banyak project full-stack dari tahap perencanaan sampai deployment.
+- Konsisten berkontribusi dan menjaga streak GitHub tetap aktif.
+- Meningkatkan kemampuan problem-solving di DSA dan fundamental software engineering.
+
+---
+
+### 🏆 Trofi GitHub
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=wobbly23&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophy" />
 </a>
 
 ---
 
-### Pacman Workflow
+### Tech Stack & Tools
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg">
-
----
-
-### My GitHub Analytics
-
-<div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wobbly23&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=wobbly23&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wobbly23&theme=dracula&hide_border=true&layout=donut&langs_count=8&cache_seconds=3600" alt="Top Languages" width="49%"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wobbly23&theme=dracula&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,php,mysql,git,github,vscode,figma&theme=dark&perline=7" alt="Keahlian saya" />
+</a>
 
 ---
 
-### Let's Connect!
+### Animasi Pacman
+
+<img alt="Grafik kontribusi Pacman" src="https://raw.githubusercontent.com/wobbly23/wobbly23/output/pacman-contribution-graph-dark.svg">
+
+---
+
+### Analitik GitHub Saya
+
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wobbly23&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Statistik GitHub" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=wobbly23&theme=dracula&hide_border=true" alt="Streak GitHub" width="49%"/>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wobbly23&theme=dracula&hide_border=true&layout=donut&langs_count=8&cache_seconds=3600" alt="Bahasa Teratas" width="49%"/>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wobbly23&theme=dracula&hide_border=true" alt="Grafik Aktivitas" width="100%"/>
+</div>
+
+---
+
+### Yuk Terhubung!
 
 <a href="https://www.instagram.com/wobblly.z/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -97,6 +99,6 @@
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-<sub>Thanks for stopping by — let’s build something awesome! ✨</sub>
+<sub>Terima kasih sudah mampir — yuk bikin sesuatu yang keren! ✨</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer)
